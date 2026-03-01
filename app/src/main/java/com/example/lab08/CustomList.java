@@ -3,6 +3,7 @@ package com.example.lab08;
 import java.util.ArrayList;
 import java.util.List;
 
+// Comment for initial commit to check workflow
 public class CustomList {
     private List<City> cities;
 
