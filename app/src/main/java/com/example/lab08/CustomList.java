@@ -25,4 +25,8 @@ public class CustomList {
             throw new NoSuchElementException("City was not found: " + city.getCityName());
         }
     }
+
+    public int countCities() {
+        return cities.size();
+    }
 }
